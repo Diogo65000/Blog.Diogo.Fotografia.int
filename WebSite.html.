@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Teste do Meu Blog</title>
+<link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <div class="main" style="background-image: url('background.png');">
+        <div class="nav-links">
+            <ul>
+                <li><a href="https://rodr1goo1.github.io/blog-diogofotografia/">HOME</a></li>
+                <li><a href="">ABOUT</a></li>
+                <li><a href="https://www.instagram.com/a.diogopovoa.fotografia650/">INSTAGRAM </a></li>
+                <li><a href="">CONTACT</a></li>
+                <li><a href="">HELP</a></li>
+            </ul>
+        </div>
+    </nav>
+        <h1>Bem-vindo ao meu Blog </h1>
+        <!-- <img src= "C:\Users\adiog\Pictures\Saved Pictures\Panasonic-LUMIX-FZ82-5.png" width=1000 height=600> -->
+        <p>Imagens</p>
+
+    </div>
+</body>
+<style>
+    body {
+        padding: 0;
+        margin: 0;
+    }
+    .main {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        background-size: cover;
+        opacity: 1;
+    }
+    h1{
+        font-size: 60px;
+        color:rgb(255, 255, 255);
+        text-align: center;
+    }
+    p{
+        font-size: 50px; 
+        text-align: center;
+    }
+    p{
+        margin: auto;
+        width: 15%;
+        border: 3px solid green;
+    }
+</style>
+</html>
