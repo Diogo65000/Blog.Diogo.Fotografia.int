@@ -1,0 +1,1 @@
+# Blog.Diogo.Fotografia.int
